@@ -11,7 +11,6 @@ const TextInputRoot = (props: TextInputRootProps) => {
     </div>
   );
 };
-
 export interface TextInputIconProps {
   children: ReactNode;
 }
